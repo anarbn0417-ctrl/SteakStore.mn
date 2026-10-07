@@ -1,0 +1,2 @@
+# SteakStore.mn
+Game passes
